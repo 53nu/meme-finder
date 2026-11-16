@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="웹캠 표정으로 인기 밈 닮은꼴을 찾아보세요.">
+  <meta name="theme-color" content="#eeedf5">
+  <title>Meme Finder — 표정 짤 매칭</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/p5@1.11.3/lib/p5.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <main class="workspace">
+    <div class="workbench">
+      <section class="panel camera-panel" aria-labelledby="camera-title">
+        <h2 class="sr-only" id="camera-title">카메라</h2>
+        <span id="camera-label" class="sr-only">꺼짐</span>
+        <div class="viewfinder" id="viewfinder">
+          <div class="canvas-host" id="canvas-host" aria-label="카메라 미리보기"></div>
+          <div class="viewfinder-empty" id="camera-placeholder">
+            <div class="face-guide" aria-hidden="true"><i></i><i></i><i></i></div>
+          </div>
+          <span class="corner corner-tl" aria-hidden="true"></span><span class="corner corner-tr" aria-hidden="true"></span>
+          <span class="corner corner-bl" aria-hidden="true"></span><span class="corner corner-br" aria-hidden="true"></span>
+          <div class="countdown" id="capture-countdown" role="status" aria-live="polite" hidden></div>
+        </div>
+        <div class="action-row">
+          <button class="button button-main" id="camera-button" type="button"><span class="button-icon" aria-hidden="true">◉</span><span id="camera-action">카메라 켜기</span></button>
+          <div class="timer-control" id="timer-control">
+            <button class="button button-quiet" id="timer-button" type="button" aria-label="촬영 타이머, 3초" aria-expanded="false" aria-controls="timer-options"><span class="clock-icon" aria-hidden="true"></span><span id="timer-value">3초</span></button>
+            <div class="timer-options" id="timer-options" role="group" aria-label="촬영 타이머 선택" hidden>
+              <button type="button" data-delay="0" aria-pressed="false">즉시</button>
+              <button type="button" data-delay="3" aria-pressed="true">3초</button>
+              <button type="button" data-delay="5" aria-pressed="false">5초</button>
+              <button type="button" data-delay="10" aria-pressed="false">10초</button>
+            </div>
+          </div>
+          <button class="button button-quiet" id="upload-button" type="button">사진 올리기</button>
+          <input id="image-upload" type="file" accept="image/png,image/jpeg,image/webp" hidden>
+        </div>
+        <p class="status-message" id="status-message" role="status" hidden></p>
+      </section>
+
+      <section class="panel match-panel" aria-labelledby="result-title" aria-busy="false">
+        <h2 class="sr-only" id="result-title">닮은꼴 TOP 3</h2>
+        <div class="match-grid" id="match-grid" aria-live="polite"></div>
+        <p class="status-message" id="match-message" role="status" hidden></p>
+        <section class="comparison" id="comparison" aria-labelledby="comparison-title" hidden>
+          <div class="comparison-header">
+            <h3 id="comparison-title">표정 점수 비교</h3>
+            <div class="comparison-picker" id="comparison-picker" role="group" aria-label="비교할 짤 선택"></div>
+          </div>
+          <div id="comparison-content" aria-live="polite"></div>
+        </section>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

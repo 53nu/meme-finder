@@ -1,0 +1,838 @@
+[
+  {
+    "id": "437762144",
+    "name": "Shocked Black Man Face.",
+    "source": "https://imgflip.com/memetemplate/437762144/Shocked-Black-Man-Face",
+    "image": "https://i.imgflip.com/78mrfk.jpg",
+    "label": "Shocked Black Man Face.",
+    "scores": {
+      "neutral": 0.0,
+      "happy": 1e-08,
+      "sad": 0.0,
+      "angry": 2e-08,
+      "fearful": 0.00015161,
+      "disgusted": 0.0,
+      "surprised": 0.99984837
+    },
+    "shape": {
+      "mouthOpen": 0.292881,
+      "mouthCorners": 0.029199,
+      "eyeOpen": 0.310304,
+      "browLift": 0.39611
+    }
+  },
+  {
+    "id": "89370399",
+    "name": "Roll Safe Think About It",
+    "label": "롤 세이프",
+    "image": "https://i.imgflip.com/1h7in3.jpg",
+    "source": "https://imgflip.com/memetemplate/89370399/Roll-Safe-Think-About-It",
+    "scores": {
+      "neutral": 0.00230484,
+      "happy": 0.99755967,
+      "sad": 0.00013174,
+      "angry": 2.06e-06,
+      "fearful": 0.0,
+      "disgusted": 1.21e-06,
+      "surprised": 4.9e-07
+    },
+    "shape": {
+      "mouthOpen": 0.139129,
+      "mouthCorners": 0.168548,
+      "eyeOpen": 0.323974,
+      "browLift": 0.308074
+    }
+  },
+  {
+    "id": "249926397",
+    "name": "WTF Jackie Chan",
+    "source": "https://imgflip.com/memetemplate/249926397/WTF-Jackie-Chan",
+    "image": "https://i.imgflip.com/44ssfx.jpg",
+    "label": "WTF Jackie Chan",
+    "scores": {
+      "neutral": 0.35057259,
+      "happy": 0.01062939,
+      "sad": 0.13853134,
+      "angry": 0.01275197,
+      "fearful": 0.00010128,
+      "disgusted": 0.45160082,
+      "surprised": 0.03581265
+    },
+    "shape": {
+      "mouthOpen": 0.154612,
+      "mouthCorners": 0.013539,
+      "eyeOpen": 0.329794,
+      "browLift": 0.323263
+    }
+  },
+  {
+    "id": "97984",
+    "name": "Disaster Girl",
+    "label": "디재스터 걸",
+    "image": "https://i.imgflip.com/23ls.jpg",
+    "source": "https://imgflip.com/memetemplate/97984/Disaster-Girl",
+    "scores": {
+      "neutral": 0.31483871,
+      "happy": 0.68227559,
+      "sad": 6.72e-06,
+      "angry": 2.39e-06,
+      "fearful": 6e-07,
+      "disgusted": 2.3e-07,
+      "surprised": 0.00287571
+    },
+    "shape": {
+      "mouthOpen": 0.038816,
+      "mouthCorners": 0.132771,
+      "eyeOpen": 0.365579,
+      "browLift": 0.334195
+    }
+  },
+  {
+    "id": "259237855",
+    "name": "Laughing Leo",
+    "label": "빵 터진 레오",
+    "image": "https://i.imgflip.com/4acd7j.png",
+    "source": "https://imgflip.com/memetemplate/259237855/Laughing-Leo",
+    "scores": {
+      "neutral": 0.00028854,
+      "happy": 7.6e-07,
+      "sad": 0.99708396,
+      "angry": 5.05e-05,
+      "fearful": 0.0004245,
+      "disgusted": 3.681e-05,
+      "surprised": 0.0021149
+    },
+    "shape": {
+      "mouthOpen": 0.134008,
+      "mouthCorners": 0.034958,
+      "eyeOpen": 0.227952,
+      "browLift": 0.349689
+    }
+  },
+  {
+    "id": "101470",
+    "name": "Ancient Aliens",
+    "label": "고대 외계인",
+    "image": "https://i.imgflip.com/26am.jpg",
+    "source": "https://imgflip.com/memetemplate/101470/Ancient-Aliens",
+    "scores": {
+      "neutral": 0.00051372,
+      "happy": 0.99567294,
+      "sad": 0.0026958,
+      "angry": 0.00109465,
+      "fearful": 1.49e-06,
+      "disgusted": 1.879e-05,
+      "surprised": 2.6e-06
+    },
+    "shape": {
+      "mouthOpen": 0.195894,
+      "mouthCorners": 0.096514,
+      "eyeOpen": 0.25481,
+      "browLift": 0.296143
+    }
+  },
+  {
+    "id": "177682295",
+    "name": "You Guys are Getting Paid",
+    "label": "너희는 돈을 받아?",
+    "image": "https://i.imgflip.com/2xscjb.png",
+    "source": "https://imgflip.com/memetemplate/177682295/You-Guys-are-Getting-Paid",
+    "scores": {
+      "neutral": 0.03070229,
+      "happy": 0.01626492,
+      "sad": 0.31794366,
+      "angry": 0.20914486,
+      "fearful": 0.00092648,
+      "disgusted": 0.0073303,
+      "surprised": 0.41768748
+    },
+    "shape": {
+      "mouthOpen": 0.270592,
+      "mouthCorners": 0.080578,
+      "eyeOpen": 0.263744,
+      "browLift": 0.277792
+    }
+  },
+  {
+    "id": "309868304",
+    "name": "Trade Offer",
+    "label": "거래를 제안한다",
+    "image": "https://i.imgflip.com/54hjww.jpg",
+    "source": "https://imgflip.com/memetemplate/309868304/Trade-Offer",
+    "scores": {
+      "neutral": 0.96394199,
+      "happy": 0.0003382,
+      "sad": 0.03507816,
+      "angry": 9.73e-06,
+      "fearful": 4.2e-07,
+      "disgusted": 6e-08,
+      "surprised": 0.00063144
+    },
+    "shape": {
+      "mouthOpen": 0.074859,
+      "mouthCorners": 0.021012,
+      "eyeOpen": 0.301084,
+      "browLift": 0.482621
+    }
+  },
+  {
+    "id": "61579",
+    "name": "One Does Not Simply",
+    "label": "그게 그렇게 쉽진 않지",
+    "image": "https://i.imgflip.com/1bij.jpg",
+    "source": "https://imgflip.com/memetemplate/61579/One-Does-Not-Simply",
+    "scores": {
+      "neutral": 0.00027788,
+      "happy": 0.99970978,
+      "sad": 6.59e-06,
+      "angry": 5.2e-07,
+      "fearful": 5e-08,
+      "disgusted": 4.65e-06,
+      "surprised": 5.8e-07
+    },
+    "shape": {
+      "mouthOpen": 0.103811,
+      "mouthCorners": 0.087342,
+      "eyeOpen": 0.251997,
+      "browLift": 0.26715
+    }
+  },
+  {
+    "id": "505705955",
+    "name": "Absolute Cinema",
+    "label": "앱솔루트 시네마",
+    "image": "https://i.imgflip.com/8d317n.png",
+    "source": "https://imgflip.com/memetemplate/505705955/Absolute-Cinema",
+    "scores": {
+      "neutral": 0.39570785,
+      "happy": 0.01517837,
+      "sad": 0.58272421,
+      "angry": 0.00013159,
+      "fearful": 1.24e-06,
+      "disgusted": 0.00625602,
+      "surprised": 6.3e-07
+    },
+    "shape": {
+      "mouthOpen": 0.005828,
+      "mouthCorners": -0.028549,
+      "eyeOpen": 0.276814,
+      "browLift": 0.3208
+    }
+  },
+  {
+    "id": "5496396",
+    "name": "Leonardo Dicaprio Cheers",
+    "label": "레오의 건배",
+    "image": "https://i.imgflip.com/39t1o.jpg",
+    "source": "https://imgflip.com/memetemplate/5496396/Leonardo-Dicaprio-Cheers",
+    "scores": {
+      "neutral": 0.00054774,
+      "happy": 0.99944586,
+      "sad": 4.87e-06,
+      "angry": 3.2e-07,
+      "fearful": 0.0,
+      "disgusted": 7e-07,
+      "surprised": 5.2e-07
+    },
+    "shape": {
+      "mouthOpen": 0.001532,
+      "mouthCorners": 0.149347,
+      "eyeOpen": 0.269629,
+      "browLift": 0.313475
+    }
+  },
+  {
+    "id": "61585",
+    "name": "Bad Luck Brian",
+    "label": "운 없는 브라이언",
+    "image": "https://i.imgflip.com/1bip.jpg",
+    "source": "https://imgflip.com/memetemplate/61585/Bad-Luck-Brian",
+    "scores": {
+      "neutral": 0.0,
+      "happy": 1,
+      "sad": 3e-08,
+      "angry": 0.0,
+      "fearful": 0.0,
+      "disgusted": 0.0,
+      "surprised": 0.0
+    },
+    "shape": {
+      "mouthOpen": 0.251774,
+      "mouthCorners": 0.18093,
+      "eyeOpen": 0.243559,
+      "browLift": 0.298067
+    }
+  },
+  {
+    "id": "133946291",
+    "name": "You know, I'm something of a scientist myself",
+    "label": "나도 과학자거든",
+    "image": "https://i.imgflip.com/27qxmb.jpg",
+    "source": "https://imgflip.com/memetemplate/133946291/You-know-Im-something-of-a-scientist-myself",
+    "scores": {
+      "neutral": 0.00318222,
+      "happy": 0.99324906,
+      "sad": 0.00135876,
+      "angry": 1.217e-05,
+      "fearful": 1e-08,
+      "disgusted": 0.0021976,
+      "surprised": 6e-08
+    },
+    "shape": {
+      "mouthOpen": 0.049177,
+      "mouthCorners": 0.032118,
+      "eyeOpen": 0.296602,
+      "browLift": 0.368883
+    }
+  },
+  {
+    "id": "101288",
+    "name": "Third World Skeptical Kid",
+    "label": "의심하는 아이",
+    "image": "https://i.imgflip.com/265k.jpg",
+    "source": "https://imgflip.com/memetemplate/101288/Third-World-Skeptical-Kid",
+    "scores": {
+      "neutral": 0.78711993,
+      "happy": 0.00145751,
+      "sad": 0.21125221,
+      "angry": 2.48e-06,
+      "fearful": 0.00016243,
+      "disgusted": 3.01e-06,
+      "surprised": 2.49e-06
+    },
+    "shape": {
+      "mouthOpen": 0.107379,
+      "mouthCorners": 0.091432,
+      "eyeOpen": 0.26176,
+      "browLift": 0.384799
+    }
+  },
+  {
+    "id": "342785297",
+    "name": "Gus Fring we are not the same",
+    "label": "우린 같지 않아",
+    "image": "https://i.imgflip.com/5o32tt.png",
+    "source": "https://imgflip.com/memetemplate/342785297/Gus-Fring-we-are-not-the-same",
+    "scores": {
+      "neutral": 0.9972716,
+      "happy": 0.00226494,
+      "sad": 0.00031786,
+      "angry": 0.00014003,
+      "fearful": 1.8e-07,
+      "disgusted": 7.9e-07,
+      "surprised": 4.46e-06
+    },
+    "shape": {
+      "mouthOpen": 0.068087,
+      "mouthCorners": 0.006841,
+      "eyeOpen": 0.261706,
+      "browLift": 0.389466
+    }
+  },
+  {
+    "id": "224015000",
+    "name": "Bernie Sanders Once Again Asking",
+    "label": "Bernie Sanders Once Again Asking",
+    "image": "https://i.imgflip.com/3pdf2w.png",
+    "source": "https://imgflip.com/memetemplate/224015000/Bernie-Sanders-Once-Again-Asking",
+    "scores": {
+      "neutral": 0.6736359,
+      "happy": 0.04303406,
+      "sad": 0.00419324,
+      "angry": 0.26783979,
+      "fearful": 2.134e-05,
+      "disgusted": 0.00784954,
+      "surprised": 0.00342616
+    },
+    "shape": {
+      "mouthOpen": 0.186997,
+      "mouthCorners": 0.078978,
+      "eyeOpen": 0.270694,
+      "browLift": 0.298214
+    }
+  },
+  {
+    "id": "124055727",
+    "name": "Y'all Got Any More Of That",
+    "label": "Y'all Got Any More Of That",
+    "image": "https://i.imgflip.com/21uy0f.jpg",
+    "source": "https://imgflip.com/memetemplate/124055727/Yall-Got-Any-More-Of-That",
+    "scores": {
+      "neutral": 0.99985647,
+      "happy": 4.409e-05,
+      "sad": 4.513e-05,
+      "angry": 2.9e-07,
+      "fearful": 4.2e-07,
+      "disgusted": 0.0,
+      "surprised": 5.358e-05
+    },
+    "shape": {
+      "mouthOpen": 0.256366,
+      "mouthCorners": 0.00621,
+      "eyeOpen": 0.282288,
+      "browLift": 0.378679
+    }
+  },
+  {
+    "id": "112137929",
+    "name": "Ben Affleck Sad",
+    "source": "https://imgflip.com/memetemplate/112137929/Ben-Affleck-Sad",
+    "image": "https://i.imgflip.com/1uri6h.jpg",
+    "label": "Ben Affleck Sad",
+    "scores": {
+      "neutral": 0.99999976,
+      "happy": 6e-08,
+      "sad": 2.3e-07,
+      "angry": 2e-08,
+      "fearful": 0.0,
+      "disgusted": 0.0,
+      "surprised": 6e-08
+    },
+    "shape": {
+      "mouthOpen": 0.004632,
+      "mouthCorners": -0.014649,
+      "eyeOpen": 0.270374,
+      "browLift": 0.273603
+    }
+  },
+  {
+    "source": "https://imgflip.com/memetemplate/98318782/Crying-Michael-Jordan",
+    "id": "98318782",
+    "name": "Crying Michael Jordan",
+    "image": "https://i.imgflip.com/1mjb9a.jpg",
+    "label": "Crying Michael Jordan",
+    "scores": {
+      "neutral": 0.9560492,
+      "happy": 0.04313983,
+      "sad": 0.00019343,
+      "angry": 0.0004467,
+      "fearful": 4e-08,
+      "disgusted": 9.44e-05,
+      "surprised": 7.652e-05
+    },
+    "shape": {
+      "mouthOpen": 0.001606,
+      "mouthCorners": 0.102375,
+      "eyeOpen": 0.329747,
+      "browLift": 0.415824
+    }
+  },
+  {
+    "source": "https://imgflip.com/memetemplate/26072558/Side-Eye-Chloe",
+    "id": "26072558",
+    "name": "Side Eye Chloe",
+    "image": "https://i.imgflip.com/fitpq.jpg",
+    "label": "Side Eye Chloe",
+    "scores": {
+      "neutral": 0.22681329,
+      "happy": 0.00282494,
+      "sad": 0.76430279,
+      "angry": 0.00413232,
+      "fearful": 0.00013932,
+      "disgusted": 0.00042843,
+      "surprised": 0.00135895
+    },
+    "shape": {
+      "mouthOpen": 0.089335,
+      "mouthCorners": -0.005172,
+      "eyeOpen": 0.343394,
+      "browLift": 0.304048
+    }
+  },
+  {
+    "source": "https://imgflip.com/memetemplate/21948440/Obama-not-bad",
+    "id": "21948440",
+    "name": "Obama not bad",
+    "image": "https://i.imgflip.com/d2fiw.jpg",
+    "label": "Obama not bad",
+    "scores": {
+      "neutral": 8.6e-06,
+      "happy": 0.0,
+      "sad": 0.99995863,
+      "angry": 3.263e-05,
+      "fearful": 1e-08,
+      "disgusted": 9e-08,
+      "surprised": 0.0
+    },
+    "shape": {
+      "mouthOpen": 0.018939,
+      "mouthCorners": -0.072229,
+      "eyeOpen": 0.290623,
+      "browLift": 0.32006
+    }
+  },
+  {
+    "id": "169666259",
+    "name": "Annoyed baby",
+    "source": "https://imgflip.com/memetemplate/169666259/Annoyed-baby",
+    "image": "https://i.imgflip.com/2t0jbn.jpg",
+    "label": "Annoyed baby",
+    "scores": {
+      "neutral": 0.05543192,
+      "happy": 0.18861187,
+      "sad": 0.28572875,
+      "angry": 0.05089303,
+      "fearful": 0.00044497,
+      "disgusted": 0.41864681,
+      "surprised": 0.00024266
+    },
+    "shape": {
+      "mouthOpen": 0.084015,
+      "mouthCorners": 0.011192,
+      "eyeOpen": 0.261728,
+      "browLift": 0.256569
+    }
+  },
+  {
+    "id": "469274806",
+    "name": "Liv Pearsall “yikes”",
+    "source": "https://imgflip.com/memetemplate/469274806/Liv-Pearsall-yikes",
+    "image": "https://i.imgflip.com/7re6ra.jpg",
+    "label": "Liv Pearsall “yikes”",
+    "scores": {
+      "neutral": 0.02758744,
+      "happy": 0.0138658,
+      "sad": 2.08e-06,
+      "angry": 0.00043074,
+      "fearful": 0.00022744,
+      "disgusted": 1.736e-05,
+      "surprised": 0.95786917
+    },
+    "shape": {
+      "mouthOpen": 0.137389,
+      "mouthCorners": 0.079599,
+      "eyeOpen": 0.303527,
+      "browLift": 0.355474
+    }
+  },
+  {
+    "id": "254353835",
+    "name": "Disgusted Gordon Ramsay",
+    "source": "https://imgflip.com/memetemplate/254353835/Disgusted-Gordon-Ramsay",
+    "image": "https://i.imgflip.com/47foob.jpg",
+    "label": "Disgusted Gordon Ramsay",
+    "scores": {
+      "neutral": 0.58821374,
+      "happy": 0.27905068,
+      "sad": 0.02400492,
+      "angry": 0.09064417,
+      "fearful": 5.517e-05,
+      "disgusted": 0.01776639,
+      "surprised": 0.00026491
+    },
+    "shape": {
+      "mouthOpen": 0.254147,
+      "mouthCorners": 0.116366,
+      "eyeOpen": 0.205063,
+      "browLift": 0.269186
+    }
+  },
+  {
+    "id": "111554069",
+    "name": "Peter Parker Crying",
+    "source": "https://imgflip.com/memetemplate/111554069/Peter-Parker-Crying",
+    "image": "https://i.imgflip.com/1uezo5.jpg",
+    "label": "Peter Parker Crying",
+    "scores": {
+      "neutral": 0.14179634,
+      "happy": 0.00154491,
+      "sad": 0.81823105,
+      "angry": 0.00403749,
+      "fearful": 0.00033318,
+      "disgusted": 0.03296037,
+      "surprised": 0.00109662
+    },
+    "shape": {
+      "mouthOpen": 0.071649,
+      "mouthCorners": 0.091872,
+      "eyeOpen": 0.26251,
+      "browLift": 0.263577
+    }
+  },
+  {
+    "id": "413991613",
+    "name": "Ross Geller Yelling",
+    "source": "https://imgflip.com/memetemplate/413991613/Ross-Geller-Yelling",
+    "image": "https://i.imgflip.com/6uh9z1.png",
+    "label": "Ross Geller Yelling",
+    "scores": {
+      "neutral": 0.00015178,
+      "happy": 5.3e-07,
+      "sad": 0.99956936,
+      "angry": 1e-08,
+      "fearful": 4.471e-05,
+      "disgusted": 5.094e-05,
+      "surprised": 0.00018274
+    },
+    "shape": {
+      "mouthOpen": 0.348572,
+      "mouthCorners": 0.017591,
+      "eyeOpen": 0.257102,
+      "browLift": 0.422117
+    }
+  },
+  {
+    "id": "48991584",
+    "name": "Chris Pratt Surprised",
+    "source": "https://imgflip.com/memetemplate/48991584/Chris-Pratt-Surprised",
+    "image": "https://i.imgflip.com/t625c.jpg",
+    "label": "Chris Pratt Surprised",
+    "scores": {
+      "neutral": 3.166e-05,
+      "happy": 0.00231993,
+      "sad": 1.7e-07,
+      "angry": 8.946e-05,
+      "fearful": 0.00035032,
+      "disgusted": 1.06e-06,
+      "surprised": 0.99720734
+    },
+    "shape": {
+      "mouthOpen": 0.329338,
+      "mouthCorners": 0.033348,
+      "eyeOpen": 0.297856,
+      "browLift": 0.406262
+    }
+  },
+  {
+    "id": "292435436",
+    "name": "Angry Dwayne Johnson",
+    "source": "https://imgflip.com/memetemplate/292435436/Angry-Dwayne-Johnson",
+    "image": "https://i.imgflip.com/4u3wmk.jpg",
+    "label": "Angry Dwayne Johnson",
+    "scores": {
+      "neutral": 0.99693394,
+      "happy": 2.653e-05,
+      "sad": 0.00029001,
+      "angry": 0.00255885,
+      "fearful": 1.99e-06,
+      "disgusted": 4.6e-07,
+      "surprised": 0.00018827
+    },
+    "shape": {
+      "mouthOpen": 0.032328,
+      "mouthCorners": 0.064895,
+      "eyeOpen": 0.3522,
+      "browLift": 0.300916
+    }
+  },
+  {
+    "id": "460008696",
+    "name": "Harry Potter Snape angry",
+    "source": "https://imgflip.com/memetemplate/460008696/Harry-Potter-Snape-angry",
+    "image": "https://i.imgflip.com/7lvkzc.jpg",
+    "label": "Harry Potter Snape angry",
+    "scores": {
+      "neutral": 0.00512691,
+      "happy": 1.123e-05,
+      "sad": 0.00582837,
+      "angry": 0.05707928,
+      "fearful": 6.387e-05,
+      "disgusted": 0.93175095,
+      "surprised": 0.00013939
+    },
+    "shape": {
+      "mouthOpen": 0.317999,
+      "mouthCorners": 0.007944,
+      "eyeOpen": 0.313787,
+      "browLift": 0.33756
+    }
+  },
+  {
+    "id": "507543041",
+    "name": "Homelander angry",
+    "source": "https://imgflip.com/memetemplate/507543041/Homelander-angry",
+    "image": "https://i.imgflip.com/8e6ept.jpg",
+    "label": "Homelander angry",
+    "scores": {
+      "neutral": 0.99904937,
+      "happy": 3.37e-05,
+      "sad": 3.567e-05,
+      "angry": 0.00057965,
+      "fearful": 1.05e-06,
+      "disgusted": 3.8e-07,
+      "surprised": 0.00030025
+    },
+    "shape": {
+      "mouthOpen": 0.036168,
+      "mouthCorners": 0.075121,
+      "eyeOpen": 0.30742,
+      "browLift": 0.283706
+    }
+  },
+  {
+    "id": "411648524",
+    "name": "Heisenberg",
+    "source": "https://imgflip.com/memetemplate/411648524/Heisenberg",
+    "image": "https://i.imgflip.com/6t3218.png",
+    "label": "Heisenberg",
+    "scores": {
+      "neutral": 0.92977619,
+      "happy": 0.00886474,
+      "sad": 0.04064219,
+      "angry": 0.00993069,
+      "fearful": 5.244e-05,
+      "disgusted": 0.00768927,
+      "surprised": 0.00304465
+    },
+    "shape": {
+      "mouthOpen": 0.012614,
+      "mouthCorners": -0.013589,
+      "eyeOpen": 0.285165,
+      "browLift": 0.298251
+    }
+  },
+  {
+    "id": "445212705",
+    "name": "Homelander - The Boys - Crazy Smile",
+    "source": "https://imgflip.com/memetemplate/445212705/Homelander---The-Boys---Crazy-Smile",
+    "image": "https://i.imgflip.com/7d2gbl.png",
+    "label": "Homelander - The Boys - Crazy Smile",
+    "scores": {
+      "neutral": 0.01316342,
+      "happy": 0.96661192,
+      "sad": 0.00027838,
+      "angry": 0.01990999,
+      "fearful": 1.06e-06,
+      "disgusted": 6.3e-07,
+      "surprised": 3.459e-05
+    },
+    "shape": {
+      "mouthOpen": 0.021439,
+      "mouthCorners": 0.162591,
+      "eyeOpen": 0.248306,
+      "browLift": 0.247647
+    }
+  },
+  {
+    "id": "390541858",
+    "name": "Walter white",
+    "source": "https://imgflip.com/memetemplate/390541858/Walter-white",
+    "image": "https://i.imgflip.com/6gio0y.png",
+    "label": "Walter white",
+    "scores": {
+      "neutral": 0.99901652,
+      "happy": 2.07e-06,
+      "sad": 4.25e-06,
+      "angry": 0.00062661,
+      "fearful": 3e-08,
+      "disgusted": 1e-08,
+      "surprised": 0.00035043
+    },
+    "shape": {
+      "mouthOpen": 0.021105,
+      "mouthCorners": 0.019418,
+      "eyeOpen": 0.285028,
+      "browLift": 0.284745
+    }
+  },
+  {
+    "id": "70679252",
+    "name": "MR. Bean Shocked",
+    "source": "https://imgflip.com/memetemplate/70679252/MR-Bean-Shocked",
+    "image": "https://i.imgflip.com/162wgk.jpg",
+    "label": "MR. Bean Shocked",
+    "scores": {
+      "neutral": 4.033e-05,
+      "happy": 1e-08,
+      "sad": 0.0,
+      "angry": 2.76e-06,
+      "fearful": 3e-08,
+      "disgusted": 1e-08,
+      "surprised": 0.99995685
+    },
+    "shape": {
+      "mouthOpen": 0.056327,
+      "mouthCorners": 0.074088,
+      "eyeOpen": 0.339463,
+      "browLift": 0.38211
+    }
+  },
+  {
+    "id": "634272058",
+    "name": "Disgusted face",
+    "source": "https://imgflip.com/memetemplate/634272058/Disgusted-face",
+    "image": "https://i.imgflip.com/ahmnga.png",
+    "label": "Disgusted face",
+    "scores": {
+      "neutral": 0.99050683,
+      "happy": 0.00434009,
+      "sad": 0.00449984,
+      "angry": 0.00026808,
+      "fearful": 1.73e-06,
+      "disgusted": 0.00029562,
+      "surprised": 8.797e-05
+    },
+    "shape": {
+      "mouthOpen": 0.043523,
+      "mouthCorners": 0.059198,
+      "eyeOpen": 0.31669,
+      "browLift": 0.329582
+    }
+  },
+  {
+    "id": "67248070",
+    "name": "Disgusted Face",
+    "source": "https://imgflip.com/memetemplate/67248070/Disgusted-Face",
+    "image": "https://i.imgflip.com/141cxy.jpg",
+    "label": "Disgusted Face",
+    "scores": {
+      "neutral": 2.056e-05,
+      "happy": 1.47e-06,
+      "sad": 6.3e-07,
+      "angry": 3.718e-05,
+      "fearful": 1.54e-06,
+      "disgusted": 0.9999212,
+      "surprised": 1.738e-05
+    },
+    "shape": {
+      "mouthOpen": 0.081756,
+      "mouthCorners": 0.080562,
+      "eyeOpen": 0.286993,
+      "browLift": 0.267866
+    }
+  },
+  {
+    "id": "116265131",
+    "name": "Disgusted Face",
+    "source": "https://imgflip.com/memetemplate/116265131/Disgusted-Face",
+    "image": "https://i.imgflip.com/1x7yqz.jpg",
+    "label": "Disgusted Face",
+    "scores": {
+      "neutral": 7.4e-07,
+      "happy": 2e-08,
+      "sad": 2.826e-05,
+      "angry": 4.417e-05,
+      "fearful": 4.769e-05,
+      "disgusted": 0.999879,
+      "surprised": 9e-08
+    },
+    "shape": {
+      "mouthOpen": 0.288103,
+      "mouthCorners": 0.040918,
+      "eyeOpen": 0.295856,
+      "browLift": 0.290785
+    }
+  },
+  {
+    "id": "408862492",
+    "name": "Tony Stark Eye Roll",
+    "source": "https://imgflip.com/memetemplate/408862492/Tony-Stark-Eye-Roll",
+    "image": "https://i.imgflip.com/6rfcbg.jpg",
+    "label": "Tony Stark Eye Roll",
+    "scores": {
+      "neutral": 0.97492379,
+      "happy": 4.296e-05,
+      "sad": 0.01872863,
+      "angry": 0.00303531,
+      "fearful": 0.00010311,
+      "disgusted": 1.494e-05,
+      "surprised": 0.00315116
+    },
+    "shape": {
+      "mouthOpen": 0.137097,
+      "mouthCorners": -0.063382,
+      "eyeOpen": 0.285586,
+      "browLift": 0.348906
+    }
+  }
+]
